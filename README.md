@@ -13,6 +13,6 @@ Connected the Front End to the databases. Check app.py in my assignment zip file
 
 1ei1: I have implemented a robust search functionality to search in both databases
 
-![github-small]([https://raw.githubusercontent.com/VastCoder/dcc4/main/Screenshots/Screenshot%20(53).png](https://github.com/VastCoder/dcc4/blob/main/Screenshots/Screenshot%202024-04-24%20000857.png?raw=true))
+![github-small](https://raw.githubusercontent.com/VastCoder/dcc4/main/Screenshots/Screenshot%202024-04-24%20000857.png)
 
 
