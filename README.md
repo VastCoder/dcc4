@@ -1,5 +1,6 @@
 1a & 1b:-
 First I converted the PDFs to CSV using FITZ in python. 
+![github-small](https://github.com/VastCoder/dcc4/blob/main/Screenshots/Screenshot%202024-04-24%20001451.png)
 Then I loaded the two databases to MySQL. 
 
 All Python and MySql codes can be found in the PDF to CSV f folder here :https://github.com/VastCoder/dcc4/tree/main/PDF%20to%20CSV%20f
