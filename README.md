@@ -18,4 +18,5 @@ Connected the Front End to the databases. Check app.py in my assignment zip file
 Whenever we search anything for each database, it gives us the results
 
 ![github-small](https://github.com/VastCoder/dcc4/blob/main/Screenshots/Screenshot%202024-04-24%20001117.png)
+![github-small](https://github.com/VastCoder/dcc4/blob/main/Screenshots/Screenshot%202024-04-24%20001332.png)
 
