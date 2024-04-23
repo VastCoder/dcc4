@@ -1,4 +1,5 @@
 1a & 1b:-
+
 First I converted the PDFs to CSV using FITZ in python. 
 ![github-small](https://github.com/VastCoder/dcc4/blob/main/Screenshots/Screenshot%202024-04-24%20001451.png)
 Then I loaded the two databases to MySQL. 
